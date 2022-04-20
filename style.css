@@ -1,0 +1,158 @@
+* {
+    box-sizing: border-box;
+}
+
+p {
+    font-weight: bold;
+}
+
+li {
+    line-height: 18px;
+}
+
+h4 {
+    display: inline-block;
+    color: white;
+    font-size: x-large;
+    margin-top: 10px;
+}
+
+h3 {
+    color:darkgray;
+}
+
+h2 {
+    color: black;
+    margin-left: 5px;
+}
+
+
+.container {
+    width: 1872px;
+    height: 895px;
+}
+
+.head-bcg {
+    background-image: url(pattern.png);
+    width: 100, 5%;
+    height: 178px;
+    background-color: lightblue;
+    margin-top: -8px;
+    margin-left: -8px;
+}
+
+.centro1 {
+    float: left;
+    margin-left: -19%;
+    margin-top: -2%;
+    line-height: 45px;
+}
+
+.centro2 {
+    width: 99%;
+    height: 50px;
+    background-color: aqua;
+    float: left;
+    padding: 3px;
+}
+
+.centro3 {
+    margin-top: 10px;
+    width: 99%;
+    height: 75px;
+    background-color:turquoise;
+    float: left;
+    padding: 3px;
+}
+
+.centro4 {
+    width: 99%;
+    height: 75px;
+    float: left;
+    padding: 3px;
+}
+
+.centro5 {
+    width: 99%;
+    height: 75px;
+    background-color:turquoise;
+    float: left;
+    padding: 3px;
+}
+
+.Lorem {
+    display: inline-block;
+    margin-left: 435px;
+    font-weight: bold;
+}
+
+.firstrow {
+    display: inline-block;
+}
+
+#logo {
+    width: 339px;
+    height: 270px;
+    float: left;
+    margin-left: 1%;
+    margin-top: -1%;
+}
+
+#title {
+    font-size: 52px;
+    font-family: monospace;
+}
+
+#ndr {
+    line-height: 19px;
+    font-size: large;
+    margin-top: -34px;
+    font-weight: bold;
+    color: darkgrey;
+}
+
+#soggetto {
+    color: aqua;
+}
+
+#commento {
+    font-weight: bold;
+    font-size: small;
+    line-height: 16px;
+    margin-top: -11px;
+}
+
+#testa1 {
+    float: left;
+
+}
+
+#testa2 {
+    margin-left: 375px;
+
+}
+
+#testa3 {
+    margin-left: 350px;
+
+}
+
+#titolofoto1 {
+    margin-top: auto;
+    margin-left: auto;
+    font-weight: bold;
+    position: absolute;
+    color: white;
+    font-family: ui-sans-serif;
+    font-size: xx-large;
+}
+
+#titolofoto2 {
+    margin-top: auto;
+    margin-left: auto;
+    font-weight: bold;
+    position: absolute;
+    color: white;
+    font-family: ui-sans-serif;
+    font-size: xx-large;
+}
